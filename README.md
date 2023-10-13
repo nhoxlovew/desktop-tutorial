@@ -5,7 +5,7 @@ Xin Chao Moi Nguoi 👋👋👋!!
 🎶Đây là 1 dự án thử nghiệm của mình :boy:, nơi hướng dẫn các bạn về những nội dung cơ bản của git hub:neutral_face::kiss:.
 
 🌈Tôi có 2 GitHub Repositories, một cho các dự án cá nhân và một cho các dự án cộng tác🌈.
-![cute-cartoon-happy-penguin-vector](https://github.com/nhoxlovew/desktop-tutorial/assets/125419112/f9380020-9717-442a-8e46-c3586895f7bf)
+![cute-cartoon-happy-penguin-vector](https://github.com/nhoxlovew/desktop-tutorial/assets/125419112/e7ea77c1-7376-4048-8639-b2bc2e6c9a45)
 
 Dự án cá nhân của tôi bao gồm các dự án học tập 📖 và phát triển kỹ năng của tôi 🥇. Tôi thường sử dụng các dự án này để thử nghiệm các công nghệ mới và học hỏi các kỹ năng mới🆕.
 
