@@ -1,4 +1,4 @@
-#🍎Welcome to My GitHub Repositories🍉!
+🍎#Welcome to My GitHub Repositories.🍉!
 Xin Chao Moi Nguoi 👋👋👋!!
 
 🎶Đây là 1 dự án thử nghiệm của mình :boy:, nơi hướng dẫn các bạn về những nội dung cơ bản của git hub:neutral_face::kiss:.
