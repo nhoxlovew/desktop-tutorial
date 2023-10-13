@@ -15,10 +15,15 @@ Tôi luôn tìm kiếm các dự án mới để tham gia. Nếu bạn có bất
 Dưới đây là một số dự án cụ thể mà tôi đang làm việc:
 
 :star:Dự án cá nhân:star::
+
 Một ứng dụng đơn giản sử dụng java
+
 :earth_asia:Dự án cộng tác:earth_asia::
+
 Một thư viện mã mở cho xử lý ngôn ngữ java (chưa triển khai).
+
 Một nền tảng học tập trực tuyến mã nguồn mở (chưa triển khai).
+
 Tôi hy vọng bạn sẽ tìm thấy các dự án của tôi hữu ích và thú vị.Liên hệ tôi qua:gmail::eyes:hoanganhonzed@gmail.com:eyes:
 
 
