@@ -23,8 +23,6 @@ Một ứng dụng đơn giản sử dụng java
 
 Một thư viện mã mở cho xử lý ngôn ngữ java (chưa triển khai).
 
-Một nền tảng học tập trực tuyến mã nguồn mở (chưa triển khai).
-
 Tôi hy vọng bạn sẽ tìm thấy các dự án của tôi hữu ích và thú vị.Liên hệ tôi qua:gmail::eyes:hoanganhonzed@gmail.com:eyes:
 
 
